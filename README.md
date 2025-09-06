@@ -1,4 +1,4 @@
- ## 👋 Hi, I’m Hussnain — a Frontend Developer passionate about React, Tailwind, and building beautiful UIs.
+ ## 👋 Hi, I’m Hussnain — a Frontend Developer passionate about React, Tailwind, GSAP and building beautiful UIs.
  ---
  ### 🚀 Skills & Tools
 - Frontend: React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
