@@ -8,7 +8,7 @@
 ---
 ### 📌 Featured Projects
 - [🎧 Seniculator ](https://github.com/hussnain-uet-87/Seniculator) – A clean and simple GPA calculator built with React & Tailwind CSS
-- [🍔 Vencile ](https://github.com/hussnain-uet-87/Vencile) – A modern, responsive landing page for Vencile – Perfume & Skincare Brand, built with Vite + React + Tailwind CSS
+- [🍔 Vencile ](https://github.com/hussnain-uet-87/Vencile) – A modern, responsive landing page + e-commerce website for Vencile – Perfume & Skincare Brand, built with Vite + React + Tailwind CSS
 - [🍔 Senius ](https://github.com/hussnain-uet-87/senius-renovation-site) – A professional home renovation services responsive website built with React and Tailwind CSS
 ---
 ### Linkedin Profile
